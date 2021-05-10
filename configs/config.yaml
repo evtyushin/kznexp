@@ -1,0 +1,5 @@
+http_server:
+  listen: ":8080"
+count: 10
+interval_sec: 5
+logging_level: dev
